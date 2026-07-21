@@ -1,0 +1,9 @@
+[submodule "legged_gym"]
+	path = legged_gym
+	url = git@github.com:zhang-hn-1/legged_gym-sru.git
+[submodule "rsl_rl"]
+	path = rsl_rl
+	url = git@github.com:zhang-hn-1/rsl_rl-sru.git
+[submodule "sru_rotunbot_study"]
+	path = sru_rotunbot_study
+	url = git@github.com:zhang-hn-1/sru_rotunbot_study.git

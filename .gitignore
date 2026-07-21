@@ -1,0 +1,17 @@
+.venv/
+isaacgym/
+downloads/
+logs/
+runs/
+checkpoints/
+*.pt
+*.pth
+*.zip
+*.tar
+*.tar.gz
+__pycache__/
+.pytest_cache/
+
+# 推送确认前保留的本地备份
+legged_gym.local/
+rsl_rl.local/
