@@ -10,7 +10,7 @@ Fixed-window SRU policy integration for Isaac Gym, legged_gym and rsl_rl.
 
 ## Validated environment
 
-- Python 3.8.10
+- Python 3.8.20
 - PyTorch 1.10.0+cu113
 - NumPy 1.23.5
 - setuptools 59.5.0
