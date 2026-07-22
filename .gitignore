@@ -15,3 +15,7 @@ __pycache__/
 # 推送确认前保留的本地备份
 legged_gym.local/
 rsl_rl.local/
+*.pyc
+events.out.tfevents.*
+core
+core.*
